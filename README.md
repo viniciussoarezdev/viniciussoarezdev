@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vinicius+Soarez;I'm+20+years+old;I'm+from+Brazil;I+Graduating+Software+EnginnerinG;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=viniciussoarezdev&theme=xcode)](https://github.com/viniciussoarezdev/github-readme-activity-graph)
-
 <div align="center"> 
 <a href="https://instagram.com/vinicinsoarez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:vinivinicius74@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
